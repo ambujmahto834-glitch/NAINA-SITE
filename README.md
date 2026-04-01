@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1>Happy Birthday, Sister!</h1>
+    <h1>Happy Birthday, meri pyari bhen🌙 !</h1>
     <img src="https://i.imgur.com/WGmWAGe.jpeg" alt="Sister's Picture">
     <div class="birthday-message">
         Naina, tu sirf meri behen nahi hai, tu meri sabse badi strength hai. ❤️ Har ek chhoti-badi baat jo main tujhe batata hoon, tu bina judge kiye sunti hai, samajhti hai aur hamesha mera support karti hai. Aaj ke time mein aise log bahut kam milte hain jo sach mein dil se saath dete hain, aur main lucky hoon ki mujhe tu mili. 🫂
@@ -33,6 +33,8 @@ Tu mere liye sirf family nahi, ek best friend jaisi hai jisse main kuch bhi shar
 Mujhe pata hai main har baar express nahi kar pata, par tu mere life ka ek bahut important part hai. Tere bina shayad main itna strong nahi hota jitna aaj hoon. Tu hamesha aise hi rehna – caring, understanding aur thodi si pagal 😄, kyunki wahi tera real charm hai.
 Happy Birthday Naina! 🎂✨ Bhagwan kare tu hamesha khush rahe, life mein jo bhi chaahe wo sab mile, aur tere face pe wo smile kabhi na jaye. Aur haan, chahe kuch bhi ho jaye, main hamesha tere saath hoon – jaise tu mere saath rehti hai. ❤️
     </div>
+    <img src="https://i.imgur.com/XhfCTpY.jpeg">
+    <img src="[https://i.imgur.com/XhfCTpY.jpeg](https://i.imgur.com/whvSD7i.jpeg)">
 </body>
 </html>
 </!DOCTYPE html>
