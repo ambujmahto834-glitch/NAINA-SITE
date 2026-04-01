@@ -50,7 +50,7 @@ Happy Birthday Naina! 🎂✨ Bhagwan kare tu hamesha khush rahe, life mein jo b
 <img src="https://i.imgur.com/qzQBm1r.jpeg">
 <img src="https://i.imgur.com/pFScsiS.jpeg">
 <img src="https://i.imgur.com/kBnLOik.jpeg">
-  
+  <img src="https://i.imgur.com/MHvWDqN.jpeg">
 </body>
 </html>
 </!DOCTYPE html>
