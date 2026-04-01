@@ -34,7 +34,23 @@ Mujhe pata hai main har baar express nahi kar pata, par tu mere life ka ek bahut
 Happy Birthday Naina! 🎂✨ Bhagwan kare tu hamesha khush rahe, life mein jo bhi chaahe wo sab mile, aur tere face pe wo smile kabhi na jaye. Aur haan, chahe kuch bhi ho jaye, main hamesha tere saath hoon – jaise tu mere saath rehti hai. ❤️
     </div>
     <img src="https://i.imgur.com/XhfCTpY.jpeg">
-    <img src="[https://i.imgur.com/XhfCTpY.jpeg](https://i.imgur.com/whvSD7i.jpeg)">
+    <img src="https://i.imgur.com/juZ8P7J.jpeg">
+<img src="https://i.imgur.com/2vRbfJj.jpeg">
+<img src="https://i.imgur.com/Hia128f.jpeg">
+<img src="https://i.imgur.com/pThGPG6.jpeg">
+<img src="https://i.imgur.com/Q8ng4Ni.jpeg">
+<img src="https://i.imgur.com/Qe4A9qH.jpeg">
+<img src="https://i.imgur.com/AWoGj0T.jpeg">
+<img src="https://i.imgur.com/FMo6iXl.jpeg">
+<img src="https://i.imgur.com/7GnQDJU.jpeg">
+<img src="https://i.imgur.com/dGjDQ0p.jpeg">
+<img src="https://i.imgur.com/XWaZ7oS.jpeg">
+<img src="https://i.imgur.com/IB2lVQN.jpeg">
+<img src="https://i.imgur.com/16LGKja.jpeg">
+<img src="https://i.imgur.com/qzQBm1r.jpeg">
+<img src="https://i.imgur.com/pFScsiS.jpeg">
+<img src="https://i.imgur.com/kBnLOik.jpeg">
+  
 </body>
 </html>
 </!DOCTYPE html>
